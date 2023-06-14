@@ -2,6 +2,7 @@
 
 I'm a passionate and creative Software Developer with a strong focus on UI/UX Design. With a keen eye for aesthetics and a deep understanding of user-centric design, I aim to create intuitive and engaging digital experiences.
 
+I'm an [Arctic Code Vault Contributor](https://archiveprogram.github.com/)!
 :seedling: **What I'm up to**
 - Currently developing a **Visual IDE for web designrs** that brings innovative solutions to the web.
 - Exploring the potential of **genertive code** for web with dedicated **LLM**s.
