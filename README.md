@@ -15,7 +15,7 @@ I'm a passionate and creative Software Developer with a strong focus on UI/UX De
 
 :mailbox: **Reach out to me**
 - Personal Website: [abhay-vincent.web.app](http://abhay-vincent.web.app)
-- LinkedIn: [@abhaykvincent](https://www.linkedin.com/in/abhaykvincent)
+- LinkedIn: [@abhaykvincent](https://www.linkedin.com/in/abhayvincent)
 - Email: abhaykvincent@gmail.com
 
 :trophy: **Fun fact**
