@@ -3,7 +3,7 @@
 I'm a passionate and creative Software Developer with a strong focus on UI/UX Design. With a keen eye for aesthetics and a deep understanding of user-centric design, I aim to create intuitive and engaging digital experiences.
 
 :seedling: **What I'm up to**
-- Currently developing a **Visual IDE for web designrs** that brings innovative solutions to the web.
+- Currently developing a **Visual IDE for web designers** that brings innovative solutions to the web.
 - Exploring the potential of **genertive code** for web with dedicated **LLM**s.
 - Diving deeper into **E-commerce** applications to enhance my clients' buisness potential.
 - Actively learning and improving my User Experience understanding to ensure the products I develop are not only pleasing to the eye but also functional and intuitive.
