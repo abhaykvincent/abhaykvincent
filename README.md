@@ -1,6 +1,5 @@
 # Hello, World! :earth_americas: I'm @abhaykvincent :man_technologist: 
 
-
 I'm a passionate and creative Software Developer with a strong focus on UI/UX Design. With a keen eye for aesthetics and a deep understanding of user-centric design, I aim to create intuitive and engaging digital experiences.
 
 :seedling: **What I'm up to**
