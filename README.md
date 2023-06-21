@@ -19,4 +19,4 @@ I'm a passionate and creative Software Developer with a strong focus on UI/UX De
 - Email: abhaykvincent@gmail.com
 
 :trophy: **Fun fact**
-- Apart from designig and coding, I'm an ardent fan of photography, architecture, movies & coffee. I believe, just like in coding, a different perspective is everything in capturing a moment!
+- Apart from designig and coding, I'm an ardent fan of photography, architecture, art, movies & coffee. I believe, just like in coding, a different perspective is everything in capturing a moment!
