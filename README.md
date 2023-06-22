@@ -6,7 +6,8 @@ I'm a passionate and creative Software Developer with a strong focus on UI/UX De
 - Currently developing a **Visual IDE for web designers** that brings innovative solutions to the web.
 - Exploring the potential of **genertive code** for web with dedicated **LLM**s.
 - Diving deeper into **E-commerce** applications to enhance my clients' buisness potential.
-- Actively learning and improving my User Experience understanding to ensure the products I develop are not only pleasing to the eye but also functional and intuitive.
+- Actively learning and improving my User Experience
+- understanding to ensure the products I develop are not only pleasing to the eye but also functional and intuitive.
 
 :handshake: **Let's collaborate**
 - I'm open to collaborating on diverse projects but have a special interest in non-profit and social impact websites, Fashion E-commerce, Professionals' portfolio.
