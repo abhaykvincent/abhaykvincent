@@ -12,7 +12,9 @@ I'm @abhaykvincent, a creative and dedicated Software Developer with a strong em
 **Contact Information:**
 
 Personal Website: abhay-vincent.web.app
+
 LinkedIn: @abhaykvincent
+
 Email: abhaykvincent@gmail.com
 
 **Interests**: Digital painting, Movies, Architecture, Billiards, 
