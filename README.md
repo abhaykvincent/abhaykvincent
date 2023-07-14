@@ -28,6 +28,4 @@ Let's collaborate to bring your vision to life and create extraordinary digital 
 
 I'm always excited to collaborate on new projects and exchange ideas. You can learn more about my work on my website or connect with me on LinkedIn. Let's create intuitive and engaging digital experiences together!
 
-Interests: Digital painting, Movies, Architecture, Billiards
-
 **Interests**: Digital painting, Movies, Architecture, Billiards
