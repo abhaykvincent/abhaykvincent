@@ -13,16 +13,16 @@ Let's **collaborate** to bring your vision to life and create extraordinary **di
 
 ### Skills
 
-- **JavaScript** JSX, JSON
+- **JavaScript**, JSX, JSON
 - **React** Redux, **SCSS**
-- **Node.js** Express.js, **Firebase**
-- Adobe **XD** Adobe AE, Figma
+- **Node.js**, Express.js, **Firebase**
+- Adobe **XD**, Adobe AE, Figma
 - **DreamFlow**, Bubble, Webflow, **Notion**
-- Zapier, **OpenAI** **LangChain**
+- Zapier, **OpenAI**, **LangChain**
 - **SquareSpace**, Shopify, **Stripe**
-- **VS Code** **Git**, GitHub, GitHub Actions
+- **VS Code**, **Git**, GitHub, GitHub Actions
 - Cypress, Postman, Chrome **DevTools**
-- **Jira** Trello, **Confluence**
+- **Jira**, Trello, **Confluence**
 
 ### Let's Connect!
 
