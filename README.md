@@ -28,4 +28,4 @@ Let's **collaborate** to bring your vision to life and create extraordinary **di
 
 I'm always excited to **collaborate** on new projects and **exchange** ideas. You can learn more about my work on my [**Website**](https://abhay-vincent.web.app) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/abhaykvincent). Let's **create** intuitive and engaging digital experiences together!
 
-**Interests**: Digital **painting** Movies, Architecture, **Billiards**, **Ukulele** `NEW`
+**Interests**: Digital **painting**, Movies, Architecture, **Billiards**, **Ukulele** `NEW`
