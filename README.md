@@ -13,7 +13,7 @@ Let's **collaborate** to bring your vision to life and create extraordinary **di
 
 ### Skills
 
-- **JavaScript**, JSX, JSON
+- **JavaScript**,**TypeScript**, JSX, JSON
 - **React** Redux, **SCSS**
 - **Node.js**, Express.js, **Firebase**
 - Adobe **XD**, Adobe AE, Figma
