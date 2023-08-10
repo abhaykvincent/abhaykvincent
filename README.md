@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm a creative and dedicated software **developer** with a strong passion for UI/UX **design**. I love creating intuitive and engaging digital experiences by combining **aesthetics** with **user-centric** design principles. With a keen eye for detail and a dedication to **crafting** seamless interfaces, I strive to deliver top-notch **solutions** that enhance user satisfaction and **meet** the needs of my clients.
 Let's **collaborate** to bring your vision to life and create extraordinary **digital experiences** together!
 
-### Current Endeavors
+###Current Endeavors
 
 - **Visual IDE** Development: I'm currently working on introducing a **visionary** Visual IDE that aims to rediscover web development paradigms. It's designed for **digital agencies**, **freelance** innovators, agile **SME**s, dynamic **tech startups**, **e-commerce** game-changers, and the **next generation** of student developers.
 - Exploring **Generative** Code: I'm utilizing **dedicated LLM**s to explore the potential of generative code for web applications. I'm **excited** to push the boundaries of what's **possible!**
