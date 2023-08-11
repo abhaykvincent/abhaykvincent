@@ -1,7 +1,7 @@
 # 👋 🌍
 ## Creative and Dedicated Software Developer | UI/UX Design Enthusiast
 
-Welcome to my GitHub profile! I'm a creative and dedicated software **developer** with a strong passion for UI/UX **design**. I love creating intuitive and engaging digital experiences by combining **aesthetics** with **user-centric** design principles. With a keen eye for detail and a dedication to **crafting** seamless interfaces, I strive to deliver top-notch **solutions** that enhance user satisfaction and **meet** the needs of my clients.
+Welcome to my GitHub profile! I'm Abhay Vincent, a software **developer** with a strong passion for UI/UX **design**. I love creating intuitive and engaging digital experiences by combining **aesthetics** with **user-centric** design principles. With a keen eye for detail and a dedication to **crafting** seamless interfaces, I strive to deliver top-notch **solutions** that enhance user satisfaction and **meet** the needs of my clients.
 Let's **collaborate** to bring your vision to life and create extraordinary **digital experiences** together!
 
 ###Current Endeavors
