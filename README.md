@@ -7,7 +7,7 @@ Let's **collaborate** to bring your vision to life and create extraordinary **di
 ###Current Endeavors
 
 - **Visual IDE** Development: I'm currently working on introducing a **visionary** Visual IDE that aims to rediscover web development paradigms. It's designed for **digital agencies**, **freelance** innovators, agile **SME**s, dynamic **tech startups**, **e-commerce** game-changers, and the **next generation** of student developers.
-- Exploring **Generative** Code: I'm utilizing **dedicated LLM**s to explore the potential of generative code for web applications. I'm **excited** to push the boundaries of what's **possible!**
+- Exploring **Generative** Code: I'm utilizing **dedicated LLM**s (Llama-2, GPT-4) to explore the potential of generative code for web applications. I'm **excited** to push the boundaries of what's **possible!**
 - **E-commerce** Enhancement: I'm deepening my expertise in E-commerce applications to **boost** clients' business potential through improved online **shopping experiences**.
 - **User Experience** Improvement: I continuously learn and hone my User Experience understanding to develop visually appealing, functional, and intuitive products that ensure a delightful user experience.
 
